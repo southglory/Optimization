@@ -9,5 +9,3 @@ My contributions to this code are following. -> functions named "Equal interval 
 
 [We referred algorithms and main ideas by a textbook, [Jasbir_S._Arora]_Introduction_to_optimum_design].
 
-coworker : 
-Yang
